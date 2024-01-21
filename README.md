@@ -1,2 +1,2 @@
 # Battleship
-Battleship game made with java
+Battleship game simulation made with java to practice OOP
